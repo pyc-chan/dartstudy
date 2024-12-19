@@ -11,6 +11,7 @@ void main() {
   double s1 = 2;
   double s2 = 19.24;
 
+// 논리 타입
   bool b1 = true;
   bool b2 = false;
 

@@ -29,12 +29,11 @@ void main() {
   dynamic kor = '국어점수';
   print(kor.runtimeType);
   kor = 95;
-  
-  
+  print(kor.runtimeType);
+
   // var는 처음 지정한 자료형을 그대로 유지
   var eng = '영어점수';
-  
+
   // 처음지정한 자료형이 아니면 오류
   // eng = 85;
-  
 }

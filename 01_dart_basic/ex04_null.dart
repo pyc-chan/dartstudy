@@ -19,7 +19,7 @@ void main() {
   age = '18';
   // !는 null을 허용하지 않는다 라는 뜻
   // 만약에 null이면 error 로 예외 발생
-  print(age!);
+  print(age);
   age = null;
   print(age!);
 }
